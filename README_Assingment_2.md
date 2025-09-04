@@ -1,0 +1,2 @@
+Travel Data 2023 Analysis – AE2 Individual Project:
+A data cleaning and analysis project on traveler behaviors, where I refined the dataset by handling missing values, created a new metric expenditure per night, and visualized spending patterns across demographics, countries, and travel purposes to uncover insights into typical traveler expenditures.
